@@ -17,8 +17,6 @@ function App() {
               My third changes...
               My....ss
 
-              sdsdsd
-
         </p>
         <a
           className="App-link"
