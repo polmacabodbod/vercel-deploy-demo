@@ -23,3 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 .vercel
+
+# ignore this type of file with commit
+package-lock.json
+tsconfig.json
